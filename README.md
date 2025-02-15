@@ -1,16 +1,24 @@
 ## Hi there 👋
 
 <!--
-**LochanaE/LochanaE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏢 BusinessHub is a comprehensive business management solution for small and medium enterprises.
+📱 Built with Flutter for cross-platform compatibility (Android & iOS).
+🔄 State Management: Provider.
+🌐 Backend Integration: REST API.
+🛠 Storage: SharedPreferences for local data caching.
 
-Here are some ideas to get you started:
+🔧 Tech Stack
+Frontend: Flutter (Dart)
+State Management: Provider
+Storage: SharedPreferences, SQLite
+API Integration: REST API, JSON handling
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+✨ Features
+✔️ User Authentication (Login/Signup)
+✔️ Dashboard with real-time business insights
+✔️ Product & Inventory Management
+✔️ Customer & Order Tracking
+✔️ Sales Reports & Analytics
+✔️ Dark Mode Support
+
 -->
